@@ -1,0 +1,48 @@
+# Flet - Mobile App Framework
+flet>=0.21.0
+
+# Database
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+
+# HTTP Requests
+requests>=2.31.0
+httpx>=0.25.0
+
+# Machine Learning - Crop Recommendation
+scikit-learn>=1.3.0
+pandas>=2.1.0
+numpy>=1.24.0
+joblib>=1.3.0
+
+# Machine Learning - Disease Detection
+tensorflow-lite>=2.14.0
+pillow>=10.0.0
+
+# AI - Local LLM
+llama-cpp-python>=0.2.0
+
+# AI - Embeddings for RAG
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+
+# Translation - IndicTrans2
+indictrans2>=1.0.0
+
+# Speech Recognition and Synthesis
+speechrecognition>=3.10.0
+gtts>=2.4.0
+pydub>=0.25.0
+
+# IoT Integration
+paho-mqtt>=1.6.1
+bleak>=0.21.0
+
+# Utilities
+python-dotenv>=1.0.0
+python-dateutil>=2.8.2
+validators>=0.22.0
+
+# Development Tools (optional)
+black>=23.0.0
+pytest>=7.4.0
